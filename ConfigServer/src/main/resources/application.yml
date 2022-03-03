@@ -6,6 +6,6 @@ spring:
       server:
         git:
           uri: https://github.com/HUB-MOD/config-data.git
-          default-label: master
+          default-label: "main"
   application:
     name: config-server
