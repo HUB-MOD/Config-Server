@@ -6,7 +6,7 @@ spring:
       server:
         git:
           uri: https://github.com/HUB-MOD/config-data.git
-          default-label: "main"
+          default-label: main
           searchPaths: /ConfigData
   application:
     name: config-server
